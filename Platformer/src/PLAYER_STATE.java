@@ -1,0 +1,10 @@
+
+public enum PLAYER_STATE {
+	
+	HERO,
+	VILLAIN,
+	SUPERHERO,
+	SUPERVILLAIN,
+	HUMAN,
+	ASLEEP
+}
